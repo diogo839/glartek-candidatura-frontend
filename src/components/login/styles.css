@@ -1,0 +1,15 @@
+
+
+.cardCustom {
+  width: 30%;
+  text-align: center;
+  margin-top: 10%;
+}
+
+.container {
+  margin-top: 3px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

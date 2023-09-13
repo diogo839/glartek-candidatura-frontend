@@ -1,0 +1,13 @@
+.BackButton {
+    width: 80%;
+    height: 80%;
+  cursor: pointer;
+}
+a {
+    color: black;
+}
+
+.BackButton:hover {
+  transition-duration: 0.3s;
+  transform: scale(1.5);
+}

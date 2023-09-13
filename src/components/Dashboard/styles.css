@@ -1,0 +1,8 @@
+.FavButton {
+  cursor: pointer;
+}
+
+.FavButton:hover {
+  transition-duration: 0.3s;
+  transform: scale(1.5);
+}
